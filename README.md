@@ -8,7 +8,12 @@
 
 `v1.3.2` · light & dark · fonts embedded · works offline · MIT
 
-<!-- screenshots/hero.png: editing view beside reading view -->
+<table>
+<tr>
+<td align="center"><img src="screenshots/editing.png" alt="Editing: iA Writer-style IBM Plex Mono source view"><br><sub><b>Write:</b> the iA Writer-style workshop</sub></td>
+<td align="center"><img src="screenshots/reading.png" alt="Reading: the same note typeset like a LaTeX paper"><br><sub><b>Read:</b> the same note, typeset like a paper</sub></td>
+</tr>
+</table>
 
 </div>
 
