@@ -1,5 +1,13 @@
 # Reitz LaTeX — Changelog
 
+## 1.3.3
+
+Release housekeeping for the Obsidian Community directory. No style changes.
+
+- The release now includes the README screenshots (`screenshots/editing.png`,
+  `screenshots/reading.png`) and the community thumbnail (`screenshot.png`),
+  which were added after 1.3.2 was tagged.
+
 ## 1.3.2
 
 Checked against a second, richer reference render (the *MentalHealthError*
